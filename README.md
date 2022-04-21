@@ -3,13 +3,14 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ikbaldemirdowen&show_icons=true&theme=radical"/>
 <img aligh="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikbaldemirdowen&layout=compact"/>
 <br>
+<fieldset style="text-align:center">
 <p>Platforms that I use most ⬇️ </p>
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
 
-<p style="text-align:center"> Programmig languages that I use most ⬇️ </p>
+<p> Programmig languages that I use most ⬇️ </p>
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -27,3 +28,4 @@
 <br>
 <br>
 <p><a href="https://docs.google.com/document/d/1VbRx-mUwKmvP8jiDbnJfwpnoTn9PqEXb/edit">Click 👉 here 👈 for my resume </a>
+</fieldset>
