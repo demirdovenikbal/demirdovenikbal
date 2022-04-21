@@ -25,3 +25,5 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
+
+<p><a href="https://docs.google.com/document/d/1VbRx-mUwKmvP8jiDbnJfwpnoTn9PqEXb/edit">Click here for my resume </a>
