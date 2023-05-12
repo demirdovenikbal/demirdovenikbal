@@ -1,3 +1,3 @@
 # Hello there! I am Ikbal 👋 #
 
-As a data analyst, I provide valuable and accurate data-driven solutions using tools like MS Excel, SQL, Tableau, and Power BI. With a strong attention to detail and a curious mindset, I identify patterns and trends to help businesses make informed decisions. I'm a quick learner and always eager to expand my knowledge and skills. Currently seeking new opportunities to contribute to a dynamic team. Let's connect and explore potential collaborations!
+iOS Developer. 2+ years of experience. Strong foundation in Swift, SwiftUI and UIKit. Track record of delivering successful projects. Passion for creating intuitive, user-friendly apps and a strong attention to detail. Experience working with APIs, integrating third-party libraries and implementing complex UI layouts. Collaboration with cross functional teams and Agile development methodologies.
